@@ -1,5 +1,5 @@
 packages:
-  - 'vue3/**' # 存放Vue3项目
-  - 'react/**' # 存放React项目
-  - 'html/**' # 存放HTML+CSS项目
+  - vue3/** # 存放Vue3项目
+  - react/** # 存放React项目
+  - html/** # 存放HTML+CSS项目
   - docs # 项目演示文档
